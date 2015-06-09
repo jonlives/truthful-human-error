@@ -31,10 +31,10 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bThe Cloud\b/g, "My Butt");
-	v = v.replace(/\bThe cloud\b/g, "My butt");
-	v = v.replace(/\bthe Cloud\b/g, "my Butt");
-	v = v.replace(/\bthe cloud\b/g, "my butt");
+	v = v.replace(/\bHuman Error\b/g, "A Complex Interaction of Events and Factors");
+	v = v.replace(/\bhuman error\b/g, "a complex interaction of events and factors");
+	v = v.replace(/\bHuman error\b/g, "A complex interaction of events and factors");
+	v = v.replace(/\bhuman Error\b/g, "A complex interaction of events and factors");
 	
 	textNode.nodeValue = v;
 }
