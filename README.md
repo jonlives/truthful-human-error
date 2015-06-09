@@ -1,7 +1,7 @@
 truthful-human-error
 =============
 
-Chrome extension that replaces occurrences of 'human error' with 'chrome://extensions'
+Chrome extension that replaces occurrences of 'human error' with 'a complex interaction of events and factors'
 
 Forked from https://github.com/panicsteve/cloud-to-butt
 
